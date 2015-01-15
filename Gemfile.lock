@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/bear-metal/tunemygc.git
+  revision: 3f932845bca7fae9044d435d2dc1be4a8fc691ba
+  specs:
+    tunemygc (1.0)
+      activesupport
+      certified
+
 PATH
   remote: vendor/gems/rails_multisite
   specs:
@@ -542,6 +550,7 @@ DEPENDENCIES
   therubyracer
   thin
   timecop
+  tunemygc!
   uglifier
   unf
   unicorn
